@@ -20,6 +20,8 @@ The instructions for how to go about adding these toolboxes are listed below:
 4. The last four toolboxes are 3rd party and require downloads. Thankfully they are provided in this repository:
     - Mobile Robotics Simulation
     - Robotics
+    - Spatial Math (Needed for Robotics)
+    - Common Toolbox (Needed for Robotics)
     - ROV Design Analysis
     - KalibRot
 5. Copy each of their folders straight into the toolbox folder where MATLAB is installed on your local machine.
