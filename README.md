@@ -3,6 +3,8 @@
 These toolboxes are used for the Robotics course that is conducted by Dr. Cathy Ann Radix.
 This course is currently conducted at the Department of Electrical and Computer Engineering, The University of the West Indies, St. Augustine, Trinidad W.I.
 
+Please note at the point of time of writing this, the MATLAB version used for all of these toolboxes is R2022a.
+
 The instructions for how to go about adding these toolboxes are listed below:
 -----------------------------------------------------------------------------
 
